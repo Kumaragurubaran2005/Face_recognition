@@ -1,0 +1,10 @@
+pip install opencv-python
+pip install dlib
+pip install face_recognition
+
+##########################################################################################
+#                                                                                        #  
+#                     IF DLIB FAILS THEN                                                 #
+#         USE THE PYTHOB VIRTUAL ENVIRONMENT OR USE ANACONDA TO DEVELOP THIS.            #
+#         OTHER WISE USE VIRTUAL BOX TO INSTALL AND USE UBUNTU.                          #
+##########################################################################################
